@@ -4,5 +4,5 @@
 
 SELECT * FROM products LIMIT 10 OFFSET 3;
 -- o quanto que quero que apareça
--- offset os próximos que quero
+-- offset os próximos que quero (apartir do 4)
 
